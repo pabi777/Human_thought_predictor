@@ -15,7 +15,7 @@ Output:
 
 ## Module 2
 
-### We control anyone's thought and can cure anykind of mental disease.
+### We control anyone's thought and can cure any kind of mental disease.
 We will manipulate a person's thought
 
 #### Some assumsion:
@@ -23,6 +23,7 @@ A person's behaviours are limited to his memories. Memories are collection of pa
 So A person's behaviour is also limited, So I assumed that, person types are also limited.
 
 **Step 1**:
+
 Input:
 - Age
 - Gender
@@ -34,6 +35,7 @@ Output:
 - Determine the type of person's type
 
 **Step 2:**
+
 Input:
 - person type
 - time
@@ -43,6 +45,7 @@ Output:
 - What he might be thinking
 
 **Step 3**
+
 Input:
 - person type
 - What he might be thinking
@@ -52,6 +55,7 @@ Output:
 - Positive/negetive
 
 **Step 4**
+
 Input:
 - what I am telling him 
 - What His response
