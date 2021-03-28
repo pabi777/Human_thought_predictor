@@ -31,6 +31,7 @@ Input:
 - occuring duration
 - occuring year
 - current year
+
 Output:
 - Determine the type of person's type
 
@@ -41,6 +42,7 @@ Input:
 - time
 - where he is
 - what he is doing
+
 Output:
 - What he might be thinking
 
@@ -51,6 +53,7 @@ Input:
 - What he might be thinking
 - what I am telling him
 - What His response
+
 Output:
 - Positive/negetive
 
@@ -60,6 +63,7 @@ Input:
 - what I am telling him 
 - What His response
 - What I want to hear from him (positive/negetive sentence)
+
 Output:
 - What I should tell him next
 
